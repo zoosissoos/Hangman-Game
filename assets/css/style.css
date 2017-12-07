@@ -1,0 +1,25 @@
+header{
+	width: 100%;
+	text-align: center;
+	background: grey;
+	position: sticky;
+	top:0;
+}
+footer{
+	width:100%;
+	text-align: center;
+	background:grey;
+	position:sticky;
+	height: 20px;
+	bottom: 0;
+}
+
+#container{
+	background-color: black;
+	color: white;
+	text-align: center;
+	height:1000px;
+}
+
+#
+
