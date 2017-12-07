@@ -1,25 +1,7 @@
-header{
-	width: 100%;
-	text-align: center;
-	background: grey;
-	position: sticky;
-	top:0;
+.jumbotron{
+	margin-top:150px;
+	background-color:#234A38 !important;;
+	color:#FEFF00 !important;
+	border-color:#FEFF00 !important;
+	border-width: 10px !important;
 }
-footer{
-	width:100%;
-	text-align: center;
-	background:grey;
-	position:sticky;
-	height: 20px;
-	bottom: 0;
-}
-
-#container{
-	background-color: black;
-	color: white;
-	text-align: center;
-	height:1000px;
-}
-
-#
-
