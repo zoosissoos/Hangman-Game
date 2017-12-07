@@ -47,12 +47,12 @@ function start(){
 	guessesCorrectCounter = 0;
 	printScreen();
 	updateStats();
-	messageAlert("Start by selecting a letter.")
 	console.log(townToGuess);
 
 }
 
 document.onload = start();
+messageAlert("Start by selecting a letter.")
 
 
 document.onkeydown = function(event){
